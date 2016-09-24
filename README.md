@@ -110,3 +110,12 @@ Monitoring Residential Drinking Water Quality: http://www2.ucy.ac.cy/~faniseng/p
 
 
 
+# How you can contribute
+
+Some useful guidelines about the best way to contribute to the project (or to fork it) can be found [here](contributing.md).
+
+# Support and Licensing 
+
+The Riffle_328 project has been supported through [Public Lab](www.publiclab.org)'s Open Water Initiative, and is licensed under [CERN OHL 1.2](LiCENSE.md).
+
+<a href="http://publiclab.org"><img src="pics/boots.png" width=100></a>
